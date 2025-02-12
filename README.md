@@ -1,5 +1,5 @@
-# 这是什么？
+#What is This?
 
-- 此次作业源于高中喜欢的女生的求助
-- 本人自己的代码水平有限 也并不知道这会不会是祖传作业
-- 如果这份东西无意中对你有用的话，请祝她天天开心！
+- This project originated from a request for help by a girl I had a crush on in high school.
+- My coding skills are limited, and I’m not sure if this qualifies as some kind of "generational inheritance" of assignments.
+- If you find this useful by chance, please wish her happiness every day!
